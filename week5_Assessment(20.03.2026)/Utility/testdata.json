@@ -1,0 +1,18 @@
+[
+  {
+    "url":"http://49.249.28.218:8081/TestServer/Build/Men_Salon_Management_System/index.php",
+    "name":"Student",
+    "phone":"1234567890",
+    "email":"tjVfX@example.com",
+    "date":"2023-06-06",
+    "time":"10:00 AM",
+    "User":"admin",
+    "password":"Test@123",
+    "adminlink":"http://49.249.28.218:8081/TestServer/Build/Men_Salon_Management_System/admin/index.php"
+  }
+  {
+    "password":"Test@123",
+    "NewPassword":"@123456",
+    "ConfirmPassword":"@123456"
+  }
+]
