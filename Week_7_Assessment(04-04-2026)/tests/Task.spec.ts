@@ -1,5 +1,5 @@
 import { test, request, expect } from '@playwright/test';
-import dataFile from "../../Utilities/data.json"
+import dataFile from ""
 test("Booking - Heroku" ,async({ request })=>{
     //creating a new auth token
     let r1=await request.post(`${dataFile.baseUrl}/auth`,{
